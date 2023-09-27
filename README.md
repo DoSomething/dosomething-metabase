@@ -1,0 +1,1 @@
+Basic config for self-hosted metabase with docker / docker compose.
