@@ -2,14 +2,14 @@
 
 Basic config for self-hosted metabase with docker / docker compose. Added support for DuckDB.
 
-# Usage
+##  Usage
 
-## Build the custom metabase docker image
+### Build the custom metabase docker image
 
 `docker build metaduck/ --tag metaduck:latest`
 
-## Set environment variables
+### Set environment variables
 Create `.env` using `.env.example`
 
-## Run Docker Compose
+### Run Docker Compose
 `docker compose up`
