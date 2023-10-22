@@ -2,7 +2,7 @@ version: '3'
 
 services:
   metabase:
-    image: metabase/metabase:latest
+    image: metaduck:latest
     ports:
       - "5200:3000"
     environment:
