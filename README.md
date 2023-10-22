@@ -1,4 +1,6 @@
-Basic config for self-hosted metabase with docker / docker compose.
+# DoSomething-Metabase
+
+Basic config for self-hosted metabase with docker / docker compose. Added support for DuckDB.
 
 # Usage
 
